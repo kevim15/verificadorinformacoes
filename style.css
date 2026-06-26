@@ -16,12 +16,12 @@ flex: 1;
 }
 
 .cabecalho{
-color:green;
+color:rgb(45, 0, 128);
 padding: 15px 25px;
 display: flex;
 justify-content: space-between;
 align-items: center;
-background-color: #FFFF00;
+background-color: #0004ff;
 }
 
 .cartao{
