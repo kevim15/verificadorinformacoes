@@ -13,6 +13,14 @@ body {
 
 main {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section {
+    display: flex;
+    gap: 16px;
 }
 
 .cabecalho {
@@ -25,7 +33,7 @@ main {
 }
 
 .cartao {
-
+    margin: 20px;
     width: 260px;
     height: 200px;
 }
